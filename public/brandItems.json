@@ -1,0 +1,116 @@
+[
+       
+        {
+          "brandName": "Toyota",
+          "carName": "Camry",
+          "carImage": "https://i.ibb.co/1L0dBYz/car-1.jpg",
+          "carRating": 4.5,
+          "carDetails": "Mid-size sedan",
+          "price" : 100
+        },
+        {
+          "brandName": "Tesla",
+          "carName": "Corolla",
+          "carImage": "https://i.ibb.co/6HJYqHj/car-2.jpg",
+          "carRating": 4.2,
+          "carDetails": "Compact car",
+          "price" : 100
+        },
+        {
+          "brandName": "Mercedes Benz",
+          "carName": "Corolla",
+          "carImage": "https://i.ibb.co/6HJYqHj/car-2.jpg",
+          "carRating": 4.2,
+          "carDetails": "Compact car",
+          "price" : 100
+        },
+        {
+          "brandName": "Honda",
+          "carName": "Corolla",
+          "carImage": "https://i.ibb.co/6HJYqHj/car-2.jpg",
+          "carRating": 4.2,
+          "carDetails": "Compact car",
+          "price" : 100
+        },
+        {
+          "brandName": "BMW",
+          "carName": "F-150",
+          "carImage": "ford_f150.jpg",
+          "carRating": 4.8,
+          "carDetails": "Full-size pickup truck",
+          "price" : 100
+        },
+        {
+          "brandName": "Ford",
+          "carName": "Escape",
+          "carImage": "ford_escape.jpg",
+          "carRating": 4.4,
+          "carDetails": "Compact SUV",
+          "price" : 100
+        },
+        {
+          "brandName": "Ford",
+          "carName": "F-150",
+          "carImage": "ford_f150.jpg",
+          "carRating": 4.8,
+          "carDetails": "Full-size pickup truck",
+          "price" : 100
+        },
+        {
+          "brandName": "Ford",
+          "carName": "Escape",
+          "carImage": "ford_escape.jpg",
+          "carRating": 4.4,
+          "carDetails": "Compact SUV",
+          "price" : 100
+        },
+        {
+          "brandName": "Ford",
+          "carName": "F-150",
+          "carImage": "ford_f150.jpg",
+          "carRating": 4.8,
+          "carDetails": "Full-size pickup truck",
+          "price" : 100
+        },
+        {
+          "brandName": "BMW",
+          "carName": "Escape",
+          "carImage": "ford_escape.jpg",
+          "carRating": 4.4,
+          "carDetails": "Compact SUV",
+          "price" : 100
+        },
+        {
+          "brandName": "BMW",
+          "carName": "F-150",
+          "carImage": "ford_f150.jpg",
+          "carRating": 4.8,
+          "carDetails": "Full-size pickup truck",
+          "price" : 100
+        },
+        {
+          "brandName": "BMW",
+          "carName": "Escape",
+          "carImage": "ford_escape.jpg",
+          "carRating": 4.4,
+          "carDetails": "Compact SUV",
+          "price" : 100
+        },
+        {
+          "brandName": "Honda",
+          "carName": "F-150",
+          "carImage": "ford_f150.jpg",
+          "carRating": 4.8,
+          "carDetails": "Full-size pickup truck",
+          "price" : 100
+        },
+        {
+          "brandName": "Honda",
+          "carName": "Escape",
+          "carImage": "ford_escape.jpg",
+          "carRating": 4.4,
+          "carDetails": "Compact SUV",
+          "price" : 100
+        }
+    
+  ]
